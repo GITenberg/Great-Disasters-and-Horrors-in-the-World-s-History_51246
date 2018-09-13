@@ -1,5 +1,8 @@
 _repo: Great-Disasters-and-Horrors-in-the-World-s-History_51246
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51246-h/images/cover.jpg
 creator:
   author:
     agent_name: Godbey, Allen Howard
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '46327'
     url: http://www.gutenberg.org/2009/agents/46327
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51246#Great-Disasters-and-Horrors-in-the-World-s-History
 gutenberg_issued: '2016-02-18'
 gutenberg_type: Text
 identifiers:
